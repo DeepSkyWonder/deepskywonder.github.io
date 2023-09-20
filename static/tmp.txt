@@ -1,0 +1,1 @@
+This file was added to make sure that GitHub creates the /static directory. It is a placeholder until static files are added to this folder. Once other files are in this folder, it can be deleted.
