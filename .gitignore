@@ -1,0 +1,9 @@
+### Ghost Static Site Tools ###
+content
+site
+stage
+static
+.env
+.DS_store
+config.production.json
+
